@@ -24,7 +24,7 @@ body {
 .header h1 .seo {
     color: #d9dcd6;
 }
-
+/*padding set to 15px text set to 20px and on the right*/
 .header div {
     padding-top: 15px;
     margin-right: 20px;
